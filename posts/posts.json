@@ -1,0 +1,4 @@
+[
+  {"slug": "first-post","title": "首次发布 — 欢迎来到水喝千束的日志","date": "2025-11-02","excerpt": "这是第一篇文章的摘要。欢迎阅读、收藏与反馈。","cover": ""},
+  {"slug": "example","title": "示例文章：如何写 Markdown 内容","date": "2025-10-26","excerpt": "示例文章，展示如何在 posts 目录中添加 Markdown。","cover": ""}
+]

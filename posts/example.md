@@ -1,0 +1,1 @@
+# 示例文章：如何写 Markdown 内容\n\n这是示例文章。\n\n**强调**、`代码片段`、\n\n```js\nconsole.log('hello world')\n```\n\n更多请参考 GitHub Markdown 语法。
